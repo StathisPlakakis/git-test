@@ -1,1 +1,2 @@
 I learn to use git through cli and it rocks!
+git commit
